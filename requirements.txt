@@ -1,0 +1,7 @@
+pandas
+numpy
+sentence-transformers
+faiss-cpu
+openai
+streamlit
+transformers  # for HuggingFace fallback
